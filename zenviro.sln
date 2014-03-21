@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ninja", "ninja\ninja.csproj", "{0CA4973B-BD6A-4C9D-8145-99B027D14A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "model", "model\model.csproj", "{F7F954A0-C287-42D0-8409-5EF414F89E10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA4973B-BD6A-4C9D-8145-99B027D14A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA4973B-BD6A-4C9D-8145-99B027D14A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA4973B-BD6A-4C9D-8145-99B027D14A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA4973B-BD6A-4C9D-8145-99B027D14A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F954A0-C287-42D0-8409-5EF414F89E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F954A0-C287-42D0-8409-5EF414F89E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F954A0-C287-42D0-8409-5EF414F89E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F954A0-C287-42D0-8409-5EF414F89E10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
